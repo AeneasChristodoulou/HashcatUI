@@ -1,2 +1,2 @@
 # HashcatUI
-A simple commandbuilder/UI (?) for Hashcat
+A simple commandbuilder/UI for Hashcat, WIP
