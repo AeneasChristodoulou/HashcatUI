@@ -1,4 +1,4 @@
-the_options = {
+Modes = {
     900: "MD4",
     0: "MD5",
     100: "SHA1",
@@ -398,6 +398,15 @@ the_options = {
     22500: "MultiBit Classic .key (MD5)",
     27700: "MultiBit Classic .wallet (scrypt)",
     22700: "MultiBit HD (scrypt)",
+}
+
+Charsets = {
+    "?l": "abcdefghijklmnopqrstuvwxyz",
+    "?u": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "?d": "0123456789",
+    "?s": '«space»!"#$%&\'()*+,-./:;<=>?@[\]^_`{|}~',
+    "?a": "?l?u?d?s",
+    "?b": "0x00 - 0xff",
 }
 
 #user_selected = 'PunBB'
